@@ -1,6 +1,6 @@
 # projects-2023
 
-projects-2023 contains a javascript application that allows the user to make a to-do list using containerization from Docker
+projects-2023 contains a node application that allows the user to make a to-do list using containerization from Docker
 
 ## Installation
 
